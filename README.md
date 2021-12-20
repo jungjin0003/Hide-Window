@@ -1,1 +1,1 @@
-# WindowHide
+# HideWindow
