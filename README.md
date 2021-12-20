@@ -1,1 +1,1 @@
-# HideWindow
+# Hide Window
